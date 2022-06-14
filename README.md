@@ -5,7 +5,7 @@ This is Project 1, written by Paulina DeVito, Oliver Pennanen, & Briana Jackson,
 
 ## Overview
 
-This project runs a game of checkers with two AI players. The rules for the game from the assignment's instructional guidelines is provided at the top of the p1_pdevito2019.py file. 
+This project runs a game of Checkers with two AI players. The rules for the game from the assignment's instructional guidelines is provided at the top of the p1_pdevito2019.py file. 
 
 This project builds off the provided code given in https://github.com/Awannaphasch2016/checker_easyAI/blob/main/checker_questions.py from the repository https://github.com/Awannaphasch2016/checker_easyAI. 
 
