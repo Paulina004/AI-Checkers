@@ -22,5 +22,5 @@ Then, to run the p1_pdevito2019.py file, you will need the following dependencie
 + EasyAI,
 + Numpy.
 
-Finally, to run the test_checkers.py file, you will need the following dependencies:
+Finally, to run the test_checkers.py file, you will also need the additional following dependency:
 + Pytest.
