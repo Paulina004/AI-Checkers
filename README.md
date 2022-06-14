@@ -1,15 +1,10 @@
-# Project-1-AI
+# Project 1 - Intro to AI
 
-This is the project written by *****
+This is Project 1 for the Intro to AI course at FAU written by Paulina DeVito, Oliver Pennanen, & Briana Jackson. This project was completed for the Summer 2022 semester. 
 
 ## Overview
 
-This is Project 1 for the Intro to AI course at FAU. 
-This project was completed for the Summer 2022 semester.
-
 The source code file that was 
 
+## How to Run the Code
 
-## Dependencies
-
-Depen
