@@ -9,9 +9,9 @@ This project runs a game of Checkers with two AI players. The rules for the game
 
 This project builds off the provided code given in https://github.com/Awannaphasch2016/checker_easyAI/blob/main/checker_questions.py from the repository https://github.com/Awannaphasch2016/checker_easyAI. 
 
-The source code file that was edited by the group is labeled as p1_pdevito2019.py. Comments of the group's names, the course name, date, the assignment name, and a brief description of the are provided on the top of the p1_devito2019.py file. 
+The source code file that was edited by the group is now labeled as p1_pdevito2019.py. Comments of the group's names, the course name, date, and the assignment name are provided at the top of the p1_pdevito2019.py file. 
 
-The group implemented the four functions--make_move(pos), lose(), is_over(), and scoring()--as shown in p1_pdevito2019.py. 
+The group implemented the four functions make_move(pos), lose(), is_over(), and scoring() as shown in p1_pdevito2019.py. 
 
 
 ## How to Run the Code
