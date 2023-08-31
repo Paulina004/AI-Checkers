@@ -1,5 +1,8 @@
 # AI Checkers
 
+> [!IMPORTANT] 
+> This project was created for learning purposes only. ***Please refrain from copying, sharing, and/or using any of my work.*** Thank you.
+
 Written by Paulina DeVito, Oliver Pennanen, & Briana Jackson, for the Intro to AI course at FAU. This project was completed for the Summer 2022 semester. 
 
 
